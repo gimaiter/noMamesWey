@@ -2,3 +2,14 @@ body
     {
         background-color: gray;
     }
+#container
+    {
+        color: brown;
+        border: solid 10px;
+    }
+#cabecera
+    {
+        border: solid white;
+        text-align: center;
+        color: white;
+    }
